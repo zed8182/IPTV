@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HBO1
+http://50.7.161.82:8278/TV2/playlist.m3u8?tid=m02000000000015364816&ct=18077&tsum=ca0f71907c56baccadc879efd9a9fa79
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HBO HITS
 https://mkctv.net:443/hoho/hbohits.m3u8
 #EXTINF:-1 tvg-logo="TEST" group-title="UseAll2",HBO SIGNATURE 
