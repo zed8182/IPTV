@@ -1,0 +1,689 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="MALAYSIA",TV1
+
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
+#EXTINF:-1 group-title="MALAYSIA",TV2
+
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/index.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",TV3
+
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",Prima
+
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",Ria
+
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",JADE TV
+
+http://m.567it.com/jade.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",8TV
+
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",TV9
+
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",OKEY
+
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",Astro AEC
+
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",Astro Ceria
+
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",Astro Warna
+
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",Astro Citra
+
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",Astro Oasis
+
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",BERITA RTM
+
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.m3u8
+
+#EXTINF:-1 group-title="MALAYSIA",AWANI
+
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1 group-title="KIDS",ANIMAX
+
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 group-title="KIDS",DISNEY CHANNEL
+
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+
+#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
+
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#EXTINF:-1 group-title="KIDS",BOOMERANG
+
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE",CRIME+INVESTIGATION
+
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE",TRAVEL CHANNEL
+
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/661
+
+#EXTINF:-1 group-title="KNOWLEDGE",LIFETIME
+
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE",TLC
+
+https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#EXTINF:-1 group-title="MOVIES",HBO
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO HITS
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO FAMILY
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO SIGNATURE
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",Red By HBO
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CINEMAX
+
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO
+
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTINF:-1 group-title="MOVIES",HBO Signature
+
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849bd045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTINF:-1 group-title="MOVIES",HBO Hits
+
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTINF:-1 group-title="MOVIES",HBO Family
+
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf3d045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTINF:-1 group-title="MOVIES",Cinemax
+
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTINF:-1 group-title="MOVIES",Red By HBO
+
+http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d5d045c59a90d7587d8d671b5f5aec4e7c
+
+#EXTINF:-1 group-title="MOVIES",FOX MOVIES
+
+https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+
+#EXTINF:-1 group-title="MOVIES",FOX ACTION
+
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
+
+#EXTINF:-1 group-title="MOVIES",FOX FAMILY
+
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
+
+#EXTINF:-1 group-title="MOVIES",FOX
+
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd
+
+#EXTINF:-1 group-title="MOVIES",FOX LIFE
+
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
+
+#EXTINF:-1 group-title="MOVIES",FOX CRIME
+
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd
+
+#EXTINF:-1 group-title="MOVIES",WARNER TV
+
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#EXTINF:-1 group-title="MOVIES",FMN
+
+https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#EXTINF:-1 group-title="MOVIES",KIX
+
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTINF:-1 group-title="MOVIES",ONE TV
+
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 group-title="MOVIES",WAKU2 JAPAN
+
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+
+#EXTINF:-1 group-title="MOVIES",KBS WORLD
+
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HITS
+
+https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1 group-title="MOVIES",HITS MOVIES
+
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1 group-title="MOVIES",AXN
+
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 group-title="MOVIES",TVN
+
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 group-title="MOVIES",TVN MOVIES
+
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1 group-title="MOVIES",SONY ONE
+
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 group-title="MOVIES",CELESTIAL MOVIES
+
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1 group-title="MOVIES",SCM
+
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#EXTINF:-1 group-title="MOVIES",SCML
+
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+
+#EXTINF:-1 group-title="MOVIES",CCM
+
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1 group-title="MOVIES",THRILL
+
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 group-title="MOVIES",CINEMAWORD
+
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1 group-title="MOVIES",CINEMA WORLD
+
+http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd
+
+#EXTINF:-1 group-title="MOVIES",PARAMOUNT
+
+http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd
+
+#EXTINF:-1 group-title="MOVIES",THRILL
+
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1 group-title="MOVIES",&PRIVE
+
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",&Flix HD
+
+https://y5w8j4a9.ssl.hwcdn.net:443/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",&Prive HD
+
+https://y5w8j4a9.ssl.hwcdn.net:443/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",SCM
+
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#EXTINF:-1 group-title="MOVIES",SCM LEGEND
+
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
+
+#EXTINF:-1 group-title="MOVIES",ZEE BIOSKOP
+
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 group-title="MOVIES",ZEE CINEMA
+
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+
+#EXTINF:-1 group-title="MOVIES",ZEE TV
+
+https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd
+
+#EXTINF:-1 group-title="MOVIES",ZING
+
+https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 1
+
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
+
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2
+
+https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd
+
+#EXTINF:-1 group-title="SPORTS",MLB Network
+
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1 group-title="SPORTS",ESPN
+
+https://gma2.blab.email/fs2.m3u8
+
+#EXTINF:-1 group-title="SPORTS",ESPN 2
+
+https://gma2.blab.email/espn2.m3u8
+
+#EXTINF:-1 group-title="SPORTS",FIGHT SPORTS
+
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 group-title="MOVIES",MTV
+
+http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd
+
+#EXTINF:-1 group-title="MOVIES",CHANNEL V
+
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+
+#EXTINF:-1 group-title="RADIO",Arena
+
+http://astro1.rastream.com/amp-arena
+
+#EXTINF:-1 group-title="RADIO",B FM
+
+http://20723.live.streamtheworld.com/BFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-014&csegid=888&dist=triton-web&tdsdk=js-2.9&banners=300x250&sbmid=de76baa7-4e3a-4ace-d8bc-f967bbc6a54e
+
+#EXTINF:-1 group-title="RADIO",Bapakku FM
+
+http://radio.bapakku.fm:8000/stream/1/
+
+#EXTINF:-1 group-title="RADIO",Durian FM
+
+http://s3.voscast.com:7140/stream/1/
+
+#EXTINF:-1 group-title="RADIO",Era FM
+
+http://astro2.rastream.com/era
+
+#EXTINF:-1 group-title="RADIO",Era Sarawak
+
+http://astro2.rastream.com/amp-era-kch
+
+#EXTINF:-1 group-title="RADIO",Era Sabah
+
+http://astro2.rastream.com/amp-era-kk
+
+#EXTINF:-1 group-title="RADIO",Gegar
+
+http://astro2.rastream.com/gegar
+
+#EXTINF:-1 group-title="RADIO",Hitz FM
+
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1 group-title="RADIO",Hitz Sarawak
+
+http://astro1.rastream.com/amp-hitz-kch
+
+#EXTINF:-1 group-title="RADIO",Hitz Sabah
+
+http://astro1.rastream.com/amp-hitz-kk
+
+#EXTINF:-1 group-title="RADIO",Hot FM
+
+http://mediaprima.rastream.com/mediaprima-hotfm?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Amediaprima-hotfm&playerid=Hot%20FM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE0NzkxMDQyNzY1MDUsImV4cCI6M
+
+#EXTINF:-1 group-title="RADIO",India Beat
+
+http://astro4.rastream.com/india
+
+#EXTINF:-1 group-title="RADIO",Kool FM
+
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="RADIO",Lite
+
+http://astro1.rastream.com/lite
+
+#EXTINF:-1 group-title="RADIO",Melody FM
+
+https://astro3.rastream.com/melody
+
+#EXTINF:-1 group-title="RADIO",Mix FM
+
+https://astro2.rastream.com/mix
+
+#EXTINF:-1 group-title="RADIO",My FM
+
+https://astro1.rastream.com/myfm
+
+#EXTINF:-1 group-title="RADIO",My Sarawak
+
+http://astro1.rastream.com/amp-myfm-kch
+
+#EXTINF:-1 group-title="RADIO",My Sabah
+
+http://astro1.rastream.com/amp-myfm-kk
+
+#EXTINF:-1 group-title="RADIO",One FM
+
+https://mediaprima.rastream.com/mediaprima-onefm
+
+#EXTINF:-1 group-title="RADIO",Raaga FM
+
+https://astro3.rastream.com/raaga
+
+#EXTINF:-1 group-title="RADIO",Sinar FM
+
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 group-title="RADIO",Suria FM
+
+http://starrfm.rastream.com/starrfm-suria.android
+
+#EXTINF:-1 group-title="RADIO",Syok Bayu
+
+https://astro4.rastream.com/bayu.web
+
+#EXTINF:-1 group-title="RADIO",Syok Classic Rock
+
+http://astro4.rastream.com/rock
+
+#EXTINF:-1 group-title="RADIO",Syok Gold
+
+http://astro4.rastream.com/gold
+
+#EXTINF:-1 group-title="RADIO",Syok Jazz
+
+http://astro4.rastream.com/jazz
+
+#EXTINF:-1 group-title="RADIO",Syok Kenyalang
+
+https://astro4.rastream.com/kenyalang.web
+
+#EXTINF:-1 group-title="RADIO",Syok Opus
+
+http://astro4.rastream.com/opus
+
+#EXTINF:-1 group-title="RADIO",Syok Osai
+
+https://astro4.rastream.com/osai
+
+#EXTINF:-1 group-title="RADIO",Terengganu FM
+
+https://terengganufmmobile.secureswiftcontent.com/rtm-ch033/rtm-ch033/chunklist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",TVB星河台
+
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",NEXTTV
+
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",CCM
+
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",CelestiaMovie
+
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO
+
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",BOO
+
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",PRIMA
+
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",CERIA
+
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",XIAOTAIYANG
+
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",SHUANGXING
+
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro sport
+
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",FOX HD
+
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",FOX FAMILY HD
+
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO
+
+http://136.243.177.164/HBO/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO2
+
+http://136.243.177.164/HBO2/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO3
+
+http://136.243.177.164/HBO3/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",CINEMAX
+
+http://136.243.177.164/CINEMAX/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",RedHBO
+
+http://fdtvapps.xyz/channel/red.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",FOX LIFE
+
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBOOo
+
+https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO Family
+
+https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO Signature
+
+https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Cinemax by HBO
+
+https://dl.dropbox.com/s/lopcwe16r7c6flw/cinemax.m3u8?dl=1
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",RED by HBO
+
+https://dl.dropbox.com/s/w1sroagglp9ebkv/red.m3u8?dl=1
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO Hits
+
+https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Hbo
+
+http://136.243.177.164/HBO/index.m3u8?davidwoo
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",RedByHbo
+
+http://fdtvapps.xyz/channel/red.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",HBO(id)
+
+http://fdtvapps.xyz/channel/hbo.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Hbo Family
+
+http://fdtvapps.xyz/channel/hbofam.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Okey
+
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Tv1
+
+http://58.26.3.54/PLTV/88888888/224/3221226228/02.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Tv3
+
+http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",AEC
+
+http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Warna
+
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Cinemax
+
+http://fdtvapps.xyz/channel/cinemax.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",TLC
+
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",FZTV绂忓窞灏戝効
+
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Awani
+
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",BeritaHK
+
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",ViuTv
+
+http://61.238.6.49:8000/bysid/99
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",BoolywoodMovie
+
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",BolywoodTv
+
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",WauHD
+
+http://nn.geo.joj.sk/hls/wau-360.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Movietime
+
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Setanta
+
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Kix
+
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Kix(VIET)
+
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",MakkahTv
+
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",AstroCeria
+
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",FoxMovies
+
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro Awani
+
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",RTM berita
+
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",RTM Sports
+
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro Ceria
+
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro Warna
+
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro - RIA
+
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro Prima Backup
+
+http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro Ria Backup
+
+http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro Warna Backup
+
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+
+#EXTINF:-1 group-title="ShareExt@Malaysia",Astro Ceria Backup
+
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
