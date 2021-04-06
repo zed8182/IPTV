@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg" x-tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg"
-
+#EXTM3U url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg" x-tvg-url="http://tvku.live:8888/xmltv.php?username=epg&password=epg"
 #EXTINF:-1
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Fj67sqdeoqwliQB5CR88OjQVrA4=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/3c912f.jpg" tvg-id="RIYAN.355c3e863037c5ef6a38c3ab0471d22d.SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="GROUP_VIDIO",Indosiar _VIDIO
