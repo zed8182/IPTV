@@ -283,7 +283,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=e
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO
 http://51.79.82.231:8080/US_HBO_SIGNATURE/video.m3u8
-http://tvku.live:8888/xmltv.php?username=epg&password=epg
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO
 http://51.79.82.231:8080/US_HBO_FAMILY/video.m3u8
@@ -326,7 +325,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lookhu.tv/uploads/tv_image/sm/flix.png" group-title="MOVIES",&flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-http://tvku.live:8888/xmltv.php?username=epg&password=epg
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="MOVIES",&prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
@@ -335,21 +333,21 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",HITS
-#http://solotv.me:8080/Line1698/b88d5078/165085
+http://solotv.me:8080/Line1698/b88d5078/165085
 https://nonton.site:8443/6894864475/7163819284/1195
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits_tv_sg.png" group-title="MOVIES",HITS UseeTV
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hits-movies-sg.png" group-title="MOVIES",HITS Movies
-#http://solotv.me:8080/Line1698/b88d5078/221947
+http://solotv.me:8080/Line1698/b88d5078/221947
 https://nonton.site:8443/6894864475/7163819284/957
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_se_asia.png" group-title="MOVIES",Star Chinese Movies HD
-#http://solotv.me:8080/Line1698/b88d5078/264800
+http://solotv.me:8080/Line1698/b88d5078/264800
 https://nonton.site:8443/6894864475/7163819284/780
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_legend.png" group-title="MOVIES",SCM Legend
-#http://iptvtree.net:8080/44444/4506fd18/171981
+http://iptvtree.net:8080/44444/4506fd18/171981
 https://nonton.site:8443/6894864475/7163819284/1859
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-movies-hk.png" group-title="MOVIES",Celestial Movies USETV
